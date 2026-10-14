@@ -6,6 +6,8 @@ tags: [gor, geografia]
 
 # Geografía de Gor
 
+CON CAMBIO
+
 Tabla de trabajo que se va ampliando libro a libro. Convención de columnas:
 
 - **Libro y cap.**: `L11 c7` = libro 11, capítulo 7.
