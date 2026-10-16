@@ -128,6 +128,8 @@ Norte arriba. Libros ya cotejados: 1 (*El guerrero de Gor*), 2 (*El proscripto d
 | Canal de Bila Huruma | canal | Canal de unos 200 yardas de ancho y 6 pies de profundidad destinado a unir los grandes lagos del interior; sigue sin terminar. Bila Huruma unió seis ubarates del sur del Ushindi; la Confederación de las Cien Aldeas (norte del Ushindi) se formó para resistirle | Enc. (Huruma's Canal, Bila Huruma, Confederacy of a Hundred Villages) | explícito |
 | Tierras de Bila Huruma | reino | Seis ubares, al oeste del Ushindi. Palacio de Bila Huruma. Sistema de comunicación con tambores | L13 c1, c10 | deducido (posición exacta no dada) |
 
+^8415b4
+
 ## Mapa del libro 2
 
 Lectura del mapa del epub (*Gor – La Contratierra*), que viene girado 90° y en baja resolución; las lecturas dudosas van marcadas. Tiene una flecha de norte hacia arriba y no está a escala.
